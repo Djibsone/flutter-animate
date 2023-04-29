@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562486243363",
+    "project_id": "flutter-animate-53a35",
+    "storage_bucket": "flutter-animate-53a35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562486243363:android:8a1e2eaef7ebbdbbc58196",
+        "android_client_info": {
+          "package_name": "com.djibsone.flutter_animate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562486243363-htikvfl1p3d6s6sf0tabkmf9avaanv70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-io4gZRjbN1as65tW50lnpeoOPcsj_IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562486243363-htikvfl1p3d6s6sf0tabkmf9avaanv70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
