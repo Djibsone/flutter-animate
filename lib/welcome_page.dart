@@ -40,7 +40,7 @@ class WelcomePage extends StatelessWidget {
                     bottom: 20,
                   ),
                   child: Text(
-                    "Get fitter, stronger, and embrasse a helthier lifestyle",
+                    "Obtenez une meilleure forme physique, de la force, et adoptez un mode de vie plus sain.",
                     textAlign: TextAlign.center,
                     style: GoogleFonts.poppins(
                       color: Colors.grey,
@@ -58,7 +58,7 @@ class WelcomePage extends StatelessWidget {
                         primary: d_red,
                         shape: StadiumBorder(),
                         padding: EdgeInsets.all(13)),
-                    child: Text('GET STARTED'),
+                    child: Text('COMMENCER'),
                     onPressed: () {
                       Navigator.push(
                         context,

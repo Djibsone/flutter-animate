@@ -34,7 +34,7 @@ class SocialPage extends StatelessWidget {
                 child: Column(
                   children: [
                     Text(
-                      "Change starts here",
+                      "Le changement commence ici",
                       style: GoogleFonts.poppins(
                         color: d_red,
                         fontSize: 16,
@@ -43,7 +43,7 @@ class SocialPage extends StatelessWidget {
                     ),
                     SizedBox(height: 10),
                     Text(
-                      "Save your progress to access your personal training program!",
+                      "Enregistrez votre progression pour accéder à votre programme d'entraînement personnel!",
                       textAlign: TextAlign.center,
                       style: GoogleFonts.poppins(
                         color: Colors.grey,

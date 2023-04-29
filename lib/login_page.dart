@@ -22,7 +22,7 @@ class LoginPage extends StatelessWidget {
                   DelayedAnimation(
                     delay: 1500,
                     child: Text(
-                      "Connect email address",
+                      "Connecter une adresse e-mail",
                       style: GoogleFonts.poppins(
                         color: d_red,
                         fontSize: 25,
@@ -34,7 +34,7 @@ class LoginPage extends StatelessWidget {
                   DelayedAnimation(
                     delay: 2500,
                     child: Text(
-                      "It's recommended to connect your email address for us to better protect your information.",
+                      "Il est recommandé de connecter votre adresse e-mail pour que nous puissions mieux protéger vos informations.",
                       style: GoogleFonts.poppins(
                         color: Colors.grey[600],
                         fontSize: 16,
